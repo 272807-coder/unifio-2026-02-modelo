@@ -75,14 +75,6 @@ Para as entidades que possuem relacionamento com outras entidades, os testes dev
 
 Por exemplo, caso `Produto` pertença a uma `Categoria`, o teste de inserção de um produto deverá associá-lo a uma categoria existente.
 
-Após consultar o produto, o teste deverá verificar também se o relacionamento foi corretamente persistido.
-
-Exemplo:
-
-```java
-assertEquals("Informática", produto.getCategoria().getNome());
-```
-
 ## 4. Qualidade dos testes
 
 Os testes não devem apenas executar os métodos do `Repository`.
