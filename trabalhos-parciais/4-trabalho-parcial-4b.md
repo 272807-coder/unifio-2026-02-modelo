@@ -1,6 +1,6 @@
 # Atividade – Testes de Repositórios com Spring Data JPA
 
-Utilizando como base o projeto desenvolvido no **2º Trabalho Parcial**, implemente e teste a camada de persistência da aplicação utilizando **Spring Data JPA**.
+Utilizando como base o projeto desenvolvido no **3º Trabalho Parcial**, implemente e teste a camada de persistência da aplicação utilizando **Spring Data JPA**.
 
 ## 1. Repositórios
 
